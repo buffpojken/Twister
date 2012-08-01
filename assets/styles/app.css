@@ -1,0 +1,10 @@
+html,body{background-color:#fff;padding:0px;margin:0px}
+.clr{clear:both}
+
+.main{padding:0px;background-color:green;position:absolute;height:100%;width:100%;min-width:1250px}
+  .left{width:100%;}
+    .left svg{margin:20px auto 0px 200px;display:block}
+.pause-mask{position:absolute;top:0px;left:0px;background-color:rgba(0,0,0,0.8);width:100%;height:100%;color:white;font-size:72px;text-align:center;font-family:"Tahoma";letter-spacing:-2px;display:none}
+.pause-mask h1{margin:200px auto;}
+
+.count-down{font-size:72px;color:#000;font-family:"Helvetica";position:absolute;top:20px;left:20px}
